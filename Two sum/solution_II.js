@@ -9,14 +9,12 @@ Your solution must use only constant extra space.
 
 **/
 
-
-
-
 /**
  * @param {number[]} numbers
  * @param {number} target
  * @return {number[]}
  */
+
 var twoSum = function(numbers, target) {
     const checked =[];
     var i = 0
