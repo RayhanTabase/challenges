@@ -14,9 +14,9 @@ Return '12:01:00'.
 s ='12:01:00AM'
 Return '00:01:00'.
 
-
 */
 
+// Alternate approach https://github.com/KingsleyIbe/convert-time-string-challenge/commit/41e995e1c9492a7310c6e88545ee6ac1e5ff666d
 
 
 function timeConversion(s) {
