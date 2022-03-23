@@ -1,4 +1,4 @@
-[lINK TO CHALLENGE](https://leetcode.com/problems/reverse-bits/)
+[LINK TO CHALLENGE](https://leetcode.com/problems/reverse-bits/)
 
 Reverse bits of a given 32 bits unsigned integer.
 
