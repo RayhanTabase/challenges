@@ -29,6 +29,7 @@ The first line contains a single integer , the number of strings.
 Each of the next  lines contains a single string , a sequence of brackets.
 */
 
+
 function isBalanced(s) {
     // Write your code here
     const openingB = ['{','[','(']
