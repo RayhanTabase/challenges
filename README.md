@@ -1,2 +1,2 @@
 # challenges
-algo challenges
+Data structures and algorithm challenges
