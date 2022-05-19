@@ -1,6 +1,9 @@
 # @param {Integer} n
 # @return {Boolean}
 
+
+# Link to challenge -> https://leetcode.com/submissions/detail/702625943/
+
 def divisor(n)
     return true if n == 1
     return false if n < 2
