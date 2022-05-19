@@ -7,8 +7,7 @@
 def divisor(n)
     return true if n == 1
     return false if n < 2
-    result = n.to_f/2
-    divisor(result)
+    divisor(n.to_f/2)
 end
     
   
