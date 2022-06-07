@@ -2,7 +2,6 @@
 Insert into a Max heap, making sure the parent elements is larger than its child elements
 */
 
-
 var MaxHeap = function() {
   // Only change code below this line
   this.heap = [];
