@@ -22,7 +22,6 @@ Print the values in a single line separated by a space.
 
 */
 
-
 def levelOrder(root):
     #Write code Here
     answer = ''
