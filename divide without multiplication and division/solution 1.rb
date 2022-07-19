@@ -1,4 +1,4 @@
-# Not very time efficient
+# Not very time efficient, different solution needed for better time complexity
 
 def divide(dividend, divisor)
     is_positive = true
